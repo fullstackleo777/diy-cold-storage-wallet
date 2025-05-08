@@ -7,18 +7,18 @@ Compare the pros and cons of DIY cold storage wallet options.
 
 ### Pros:
 
-* **Cost-Effective:** Requires only a printer and paper.
-* **Offline Generation:** When created on an air-gapped (offline) device, it’s highly secure.
-* **Simplicity:** No need for complex hardware or software setups.
-* **Compact and Portable:***Easy to store in a safe or secret location.
+- **Cost-Effective:** Requires only a printer and paper.
+- **Offline Generation:** When created on an air-gapped (offline) device, it’s highly secure.
+- **Simplicity:** No need for complex hardware or software setups.
+- **Compact and Portable:** Easy to store in a safe or secret location.
 
 ### Cons:
 
-* **Physical Fragility:** Paper can burn, tear, or degrade over time.
-* **Single Point of Failure:** Losing the paper means losing your funds permanently.
-* **Visual Exposure Risk:** Anyone who sees the private key can steal your funds.
-* **No Multi-Sig Support:** Typically doesn’t support advanced security features like multi-signature wallets.
-* **Printer Vulnerability:** Printers can store print data or be infected with malware.
+- **Physical Fragility:** Paper can burn, tear, or degrade over time.
+- **Single Point of Failure:** Losing the paper means losing your funds permanently.
+- **Visual Exposure Risk:** Anyone who sees the private key can steal your funds.
+- **No Multi-Sig Support:** Typically doesn’t support advanced security features like multi-signature wallets.
+- **Printer Vulnerability:** Printers can store print data or be infected with malware.
 
 ### Best Use Case:
 
@@ -30,17 +30,17 @@ ___
 
 ### Pros:
 
-* **Highly Secure:** Never connects to the internet, minimizing hacking risks.
-* **Versatile:** Can store multiple wallets and cryptocurrencies.
-* **Advanced Features:** Supports multi-signature and encrypted backups.
-* **Software Flexibility:** Works with open-source software like Electrum or Armory.
+- **Highly Secure:** Never connects to the internet, minimizing hacking risks.
+- **Versatile:** Can store multiple wallets and cryptocurrencies.
+- **Advanced Features:** Supports multi-signature and encrypted backups.
+- **Software Flexibility:** Works with open-source software like Electrum or Armory.
 
 ### Cons:
 
-* **Setup Cost:** Requires a dedicated offline computer or laptop.
-* **Complex Setup:** Requires technical skills to properly secure and maintain.
-* **Physical Theft Risk:** If stolen, the device could still be accessed.
-* **Human Error:** Incorrect setup or failure to maintain offline status can compromise security.
+- **Setup Cost:** Requires a dedicated offline computer or laptop.
+- **Complex Setup:** Requires technical skills to properly secure and maintain.
+- **Physical Theft Risk:** If stolen, the device could still be accessed.
+- **Human Error:** Incorrect setup or failure to maintain offline status can compromise security.
 
 ### Best Use Case:
 
@@ -52,17 +52,17 @@ ___
 
 ### Pros:
 
-* **Portable and Compact:** Easy to carry and hide.
-* **Multi-OS Compatibility:** Can run on any computer without installing anything.
-* **Open Source Options:** Uses software like Tails OS, Electrum, or Armory for wallet creation.
-* **Encrypted Storage:** USB drives can be encrypted for added security.
+- **Portable and Compact:** Easy to carry and hide.
+- **Multi-OS Compatibility:** Can run on any computer without installing anything.
+- **Open Source Options:** Uses software like Tails OS, Electrum, or Armory for wallet creation.
+- **Encrypted Storage:** USB drives can be encrypted for added security.
 
 ### Cons:
 
-* **Technical Complexity:** Requires knowledge of USB boot creation and wallet setup.
-* **Risk of Connection:** If the device is accidentally connected to the internet, it compromises the wallet.
-* **Physical Damage:** USB drives are prone to failure or corruption.
-* **No Redundancy:** If the USB drive is lost or damaged, recovery is nearly impossible without backups.
+- **Technical Complexity:** Requires knowledge of USB boot creation and wallet setup.
+- **Risk of Connection:** If the device is accidentally connected to the internet, it compromises the wallet.
+- **Physical Damage:** USB drives are prone to failure or corruption.
+- **No Redundancy:** If the USB drive is lost or damaged, recovery is nearly impossible without backups.
 
 ### Best Use Case:
 
@@ -74,15 +74,15 @@ ___
 
 ### Pros:
 
-* **Fireproof and Waterproof:** Resistant to physical disasters.
-* **Durable:** Will not degrade over time like paper.
-* **Adds Redundancy:** Complements other cold storage methods as a backup.
+- **Fireproof and Waterproof:** Resistant to physical disasters.
+- **Durable:** Will not degrade over time like paper.
+- **Adds Redundancy:** Complements other cold storage methods as a backup.
 
 ### Cons:
 
-* **Cost:** High-quality metal backup kits can be expensive.
-* **Requires Skill:** Stamping or engraving the seed phrase requires precision.
-* **Physical Access Risk:** If someone finds it, they can access your funds.
+- **Cost:** High-quality metal backup kits can be expensive.
+- **Requires Skill:** Stamping or engraving the seed phrase requires precision.
+- **Physical Access Risk:** If someone finds it, they can access your funds.
 
 ### Best Use Case:
 
