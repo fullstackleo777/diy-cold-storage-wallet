@@ -8,4 +8,4 @@ Info regarding DIY cold storage wallets
 | USB Bootable Wallet | High      | Low    | Medium          | Medium     | High        | High         |
 | Metal Seed Backup   | N/A       | Medium | Medium          | Very High  | Medium      | Low          |
 
-Why buy expensive hardware cold storage wallets 🤔
+Why buy expensive hardware cold storage wallets? 🤔
