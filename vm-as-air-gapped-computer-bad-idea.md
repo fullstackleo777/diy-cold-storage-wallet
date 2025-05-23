@@ -13,8 +13,6 @@ Even if the VM doesn’t have a virtual NIC (network card), your host OS does. M
 3. **Physical air gaps require physical separation**
 The essence of air-gapping is **no physical or wireless path to a network**. A VM doesn’t count — it's like saying a jail cell in your living room is still secure when the whole house is compromised.
 
----
-
 ### ✅ What You Should Do Instead
 
 To **properly air-gap** a computer, follow this setup:
@@ -27,7 +25,6 @@ To **properly air-gap** a computer, follow this setup:
 | **No shared peripherals** | No shared keyboard, mouse, drives  |
 | **No virtualization**     | Bare metal OS install only         |
 
----
 
 ### ⚠️ Real-World Use Case Example (Crypto Relevance)
 
@@ -38,8 +35,6 @@ If you’re planning to:
 * **Generate seed phrases securely**
 
 Then a **physically isolated machine** is **mandatory**.
-
----
 
 ### 🛡️ Pro Tip
 
