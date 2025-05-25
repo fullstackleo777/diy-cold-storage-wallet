@@ -45,4 +45,4 @@ For offline crypto setups, use:
 * Boot from a **Live USB** if you don't want to install
 * Sign transactions offline → transfer via QR code or USB only when needed (with strict hygiene)
 
----
+___

@@ -46,4 +46,4 @@
 * **Label nothing as “Crypto Wallet”** to avoid theft if discovered.
 * **Consider Shamir Backup** for splitting a seed among trusted parties (e.g., 2 of 3 needed to recover).
 
----
+___

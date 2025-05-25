@@ -45,3 +45,5 @@
 * **Nunca guardes llaves privadas o semillas digitalmente** en dispositivos conectados a internet.
 * **No etiquetes nada como “Billetera Cripto”** para evitar robos si es descubierto.
 * **Considera el Respaldo Shamir** para dividir una semilla entre personas de confianza (por ejemplo, se necesitan 2 de 3 para recuperar).
+
+___

@@ -2,7 +2,6 @@
 
 Compare the pros and cons of DIY cold storage wallet options.
 
-
 ## Paper Wallet
 
 ### Pros
@@ -24,8 +23,6 @@ Compare the pros and cons of DIY cold storage wallet options.
 
 Low-budget, long-term storage for small amounts of crypto. Ideal for those who don’t mind a bit of DIY and are meticulous about physical security.
 
-___
-
 ## Air-Gapped Computer
 
 ### Pros
@@ -45,8 +42,6 @@ ___
 ### Best Use Case:
 
 Storing larger amounts of crypto for tech-savvy users who value security and flexibility.
-
-___
 
 ## USB Bootable Wallet
 
@@ -68,8 +63,6 @@ ___
 
 Medium to large amounts of crypto for users comfortable with managing encrypted USB drives and offline setups.
 
-___
-
 ## Metal Seed Phrase Backup (as an addition)
 
 ### Pros
@@ -88,8 +81,6 @@ ___
 
 Backup for other cold storage methods, especially for long-term HODLing.
 
-___
-
 ## Comparison Table
 
 | Method              | Security  | Cost   | Technical Skill | Durability | Portability | Risk of Loss |
@@ -98,8 +89,6 @@ ___
 | Air-Gapped Computer | Very High | Medium | High            | Medium     | Low         | Medium       |
 | USB Bootable Wallet | High      | Low    | Medium          | Medium     | High        | High         |
 | Metal Seed Backup   | N/A       | Medium | Medium          | Very High  | Medium      | Low          |
-
-___
 
 ## Conclusion
 

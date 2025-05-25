@@ -23,8 +23,6 @@ Compara los pros y contras de las opciones de almacenamiento en frío tipo "hazl
 
 Almacenamiento a largo plazo y con bajo presupuesto para pequeñas cantidades de cripto. Ideal para quienes no temen al DIY y son meticulosos con la seguridad física.
 
-___
-
 ## Computadora Aislada del Internet
 
 ### Ventajas
@@ -44,8 +42,6 @@ ___
 ### Mejor Uso
 
 Guardar cantidades grandes de cripto para usuarios con conocimientos técnicos que valoran la seguridad y flexibilidad.
-
-___
 
 ## Billetera Booteable desde USB
 
@@ -67,8 +63,6 @@ ___
 
 Cantidades medianas o grandes de cripto para usuarios que se sienten cómodos manejando USB encriptadas y configuraciones sin conexión.
 
-___
-
 ## Respaldo Metálico de Frase Semilla (como complemento)
 
 ### Ventajas
@@ -87,8 +81,6 @@ ___
 
 Respaldo para otros métodos de almacenamiento en frío, especialmente para mantener cripto a largo plazo (HODL).
 
-___
-
 ## Tabla Comparativa
 
 | Método              | Seguridad  | Costo  | Habilidad Técnica | Durabilidad | Portabilidad | Riesgo de Pérdida |
@@ -97,8 +89,6 @@ ___
 | PC Aislada          | Muy Alta   | Media  | Alta              | Media       | Baja          | Media             |
 | USB Booteable       | Alta       | Baja   | Media             | Media       | Alta          | Alta              |
 | Respaldo Metálico   | N/A        | Media  | Media             | Muy Alta    | Media         | Baja              |
-
-___
 
 ## Conclusión
 
