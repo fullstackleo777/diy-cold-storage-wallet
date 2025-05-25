@@ -1,3 +1,5 @@
+![DIY Cold Storage Wallet Cover Image](https://raw.githubusercontent.com/fullstackleo777/diy-cold-storage-wallet/refs/heads/main/img/diy-cold-storage-wallet_1920px-1080px.png)
+
 # diy-cold-storage-wallet
 
 Info regarding DIY cold storage wallets
