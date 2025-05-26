@@ -1,4 +1,4 @@
-![DIY Cold Storage Wallet Cover Image](https://raw.githubusercontent.com/fullstackleo777/diy-cold-storage-wallet/refs/heads/main/img/diy-cold-storage-wallet_1920px-1080px.png)
+![DIY Cold Storage Wallet Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/diy-cold-storage-wallet/cover_diy-cold-storage-wallet.png)
 
 # diy-cold-storage-wallet
 
@@ -12,5 +12,3 @@ Info regarding DIY cold storage wallets
 | Metal Seed Backup   | N/A       | Medium | Medium          | Very High  | Medium      | Low          |
 
 Why buy expensive hardware cold storage wallets? 🤔
-
-![DIY Cold Storage Wallet Footer Image](https://raw.githubusercontent.com/fullstackleo777/diy-cold-storage-wallet/refs/heads/main/img/diy-cold-storage-wallet_1080px-1080px.png)
