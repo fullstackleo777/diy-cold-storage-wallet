@@ -2,7 +2,7 @@
 
 # diy-cold-storage-wallet
 
-Info regarding DIY cold storage wallets
+Info Regarding DIY Cold Storage Wallets - FullStackLeo
 
 | Method              | Security  | Cost   | Technical Skill | Durability | Portability | Risk of Loss |
 | ------------------- | --------- | ------ | --------------- | ---------- | ----------- | ------------ |
@@ -12,3 +12,5 @@ Info regarding DIY cold storage wallets
 | Metal Seed Backup   | N/A       | Medium | Medium          | Very High  | Medium      | Low          |
 
 Why buy expensive hardware cold storage wallets? 🤔
+
+___
